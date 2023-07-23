@@ -1,6 +1,7 @@
 # wheatherapp
 
-A new Flutter project.
+A wheather app using open wheather app API having cool UI 
+
 
 ## Getting Started
 
